@@ -10,6 +10,6 @@ PSD to HTML
 ## Run
 
 ```bash
-  npm run build //SASS to CSS
-  npm run serve //server
+  npm run build
+  npm run serve
 ```
