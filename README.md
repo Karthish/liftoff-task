@@ -3,13 +3,13 @@ PSD to HTML
 
 ## Installation
 
-```Bash
+```bash
   npm install
 ```
 
 ## Run
 
-```Bash
+```bash
   npm run build //SASS to CSS
-  npm run serve //localhost server
+  npm run serve //server
 ```
